@@ -97,18 +97,6 @@ We analyze real-world datasets from Kaggle and perform data analysis, visualizat
 * Tried linear, polynomial, and RBF kernels
 * Compared accuracy across kernels
 
-### 1️⃣1️⃣ Decision Tree (DT)
-
-* Built decision tree classifier using `DecisionTreeClassifier`
-* Visualized tree structure using `plot_tree()`
-* Observed overfitting and pruning effects
-
-### 1️⃣2️⃣ Random Forest (RF)
-
-* Ensemble model using `RandomForestClassifier`
-* Compared with single DT performance
-* Improved accuracy through averaging
-
 ---
 
 ## 🧰 Technologies Used
