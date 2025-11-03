@@ -104,7 +104,7 @@ We analyze real-world datasets from Kaggle and perform data analysis, visualizat
 * Visualized tree structure and interpreted decision paths
 * Evaluated performance using accuracy and feature importance
 
-###12🌲 Random Forest Classifier
+### 12🌲 Random Forest Classifier
 
 * Implemented Random Forest using RandomForestClassifier
 * Utilized ensemble learning by combining multiple decision trees
