@@ -97,6 +97,20 @@ We analyze real-world datasets from Kaggle and perform data analysis, visualizat
 * Tried linear, polynomial, and RBF kernels
 * Compared accuracy across kernels
 
+### 11 🌳 Decision Tree
+
+* Implemented Decision Tree model using DecisionTreeClassifier and DecisionTreeRegressor
+* Applied for both classification and regression tasks
+* Visualized tree structure and interpreted decision paths
+* Evaluated performance using accuracy and feature importance
+
+###12🌲 Random Forest Classifier
+
+* Implemented Random Forest using RandomForestClassifier
+* Utilized ensemble learning by combining multiple decision trees
+* Improved model stability and reduced overfitting
+* Evaluated using accuracy, precision, recall, and feature importance
+
 ---
 
 ## 🧰 Technologies Used
